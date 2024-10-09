@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ahsabit
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning laravel
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning laravel + react.js
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me: ahsabit6@gmail.com
+- 📫 How to reach me: https://x.com/a_h_sabit or https://www.linkedin.com/in/a-h-sabit/
 - ⚡ Fun fact: I am currently looking for a job. But i couldn't find one because i live in Bangladesh.
 
 <!---
