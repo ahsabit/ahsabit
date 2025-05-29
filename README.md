@@ -5,7 +5,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/a-h-sabit/
 - ⚡ Fun fact: I love science and business.
 
-- [![Sabit's stats](https://github-stats-el6j3pysb-a-h-sabits-projects.vercel.app/api/wakatime?username=ahsabit)]
+- [![Sabit's stats](https://github-stats-el6j3pysb-a-h-sabits-projects.vercel.app/api?username=ahsabit&show_icons=true&theme=radical)]
 - [![Harlok's WakaTime stats](https://)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
