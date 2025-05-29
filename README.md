@@ -6,6 +6,7 @@
 - ⚡ Fun fact: I love science and business.
 
 - [![Sabit's stats](https://github-stats-el6j3pysb-a-h-sabits-projects.vercel.app/api?username=ahsabit&show_icons=true&theme=radical)]
+- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 - [![Harlok's WakaTime stats](https://)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
