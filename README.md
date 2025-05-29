@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new projects using Laravel, React.js and TypeScript
 - 📫 Contact me at ahsabit4@gmail.com
 
-![Stats](https://github-stats-x9cj.vercel.app/api?username=ahsabit&show_icons=true&count_private=true&theme=tokyonight))
+![Stats](https://github-stats-x9cj.vercel.app/api?username=ahsabit&show_icons=true&count_private=true&theme=tokyonight)
 
 <!---
 ahsabit/ahsabit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
