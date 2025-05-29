@@ -5,6 +5,9 @@
 - 📫 How to reach me: https://www.linkedin.com/in/a-h-sabit/
 - ⚡ Fun fact: I love science and business.
 
+- [![Sabit's stats](https://github-stats-el6j3pysb-a-h-sabits-projects.vercel.app/api/wakatime?username=ahsabit)]
+- [![Harlok's WakaTime stats](https://)](https://github.com/anuraghazra/github-readme-stats)
+
 <!---
 ahsabit/ahsabit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
