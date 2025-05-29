@@ -5,7 +5,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/a-h-sabit/
 - ⚡ Fun fact: I love science and business.
 
-- [Sabit's stats](https://github-stats-x9cj.vercel.app/api?username=ahsabit&show_icons=true&count_private=true&theme=radical))]
+- ![My Github Stats](https://github-stats-x9cj.vercel.app/api?username=ahsabit&show_icons=true&count_private=true&theme=radical))
 
 <!---
 ahsabit/ahsabit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
