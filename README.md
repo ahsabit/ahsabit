@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning Next.js
 - 💞️ I’m looking to collaborate on new projects using Laravel, React.js and TypeScript
 - 📫 Connect with me at [LinkedIn](https://www.linkedin.com/in/a-h-sabit/)
-Statistics (public + private):
+- Statistics:
+  
 ![Stats](https://github-stats-x9cj.vercel.app/api?username=ahsabit&show_icons=true&count_private=true&theme=tokyonight)
 ![Top Languages](https://github-stats-x9cj.vercel.app/api/top-langs/?username=ahsabit&show_icons=true&count_private=true&theme=tokyonight)
 
